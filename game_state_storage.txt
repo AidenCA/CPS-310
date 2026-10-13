@@ -1,0 +1,5 @@
+tick: 3
+size: 10 x 10
+agents: 2
+- human1: Human | position=(0, 0) | health=100
+- zombie1: Zombie | position=(7, 4) | health=100
